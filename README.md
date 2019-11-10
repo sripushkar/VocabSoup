@@ -1,5 +1,5 @@
 # VocabSoup
-A tool for converting Pearson online textbook vocab to a Quizlet. Fully automatic.
+A script for converting Pearson online textbook vocab to a Quizlet. Fully automatic.
 
 These Python modules are needed:
 * Selenium
