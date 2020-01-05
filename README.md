@@ -8,3 +8,5 @@ These Python modules are needed:
 * time
 * requests
 * clipboard
+
+Must have chromedriver installed and link its path in the main python file.
